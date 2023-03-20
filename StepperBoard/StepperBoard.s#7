@@ -2476,6 +2476,8 @@ With round pins</description>
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
+<class number="1" name="Motor" width="0" drill="0">
+</class>
 </classes>
 <parts>
 <part name="U1" library="A4988_STEPPER_MOTOR_DRIVER_CARRIER" deviceset="A4988_STEPPER_MOTOR_DRIVER_CARRIER" device=""/>
@@ -3583,7 +3585,7 @@ With round pins</description>
 <junction x="83.82" y="396.24"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="N$13" class="1">
 <segment>
 <pinref part="U$1" gate="G$1" pin="4"/>
 <wire x1="241.3" y1="370.84" x2="251.46" y2="370.84" width="0.1524" layer="91"/>
@@ -3592,7 +3594,7 @@ With round pins</description>
 <wire x1="251.46" y1="335.28" x2="241.3" y2="335.28" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$14" class="0">
+<net name="N$14" class="1">
 <segment>
 <pinref part="U$1" gate="G$1" pin="3"/>
 <wire x1="241.3" y1="368.3" x2="248.92" y2="368.3" width="0.1524" layer="91"/>
@@ -3601,7 +3603,7 @@ With round pins</description>
 <wire x1="248.92" y1="337.82" x2="241.3" y2="337.82" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="N$15" class="1">
 <segment>
 <pinref part="U$1" gate="G$1" pin="2"/>
 <wire x1="241.3" y1="365.76" x2="246.38" y2="365.76" width="0.1524" layer="91"/>
@@ -3610,7 +3612,7 @@ With round pins</description>
 <wire x1="246.38" y1="340.36" x2="241.3" y2="340.36" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$16" class="0">
+<net name="N$16" class="1">
 <segment>
 <pinref part="U$1" gate="G$1" pin="1"/>
 <wire x1="241.3" y1="363.22" x2="243.84" y2="363.22" width="0.1524" layer="91"/>

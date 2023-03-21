@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.0393700787" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -2129,7 +2129,11 @@ With round pins</description>
 <classes>
 <class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="Motor" width="0.381" drill="0">
+<class number="1" name="Motor" width="0.508" drill="0">
+</class>
+<class number="2" name="VMOT" width="0.508" drill="0">
+</class>
+<class number="3" name="GND" width="0.508" drill="0">
 </class>
 </classes>
 <parts>
@@ -2717,7 +2721,7 @@ With round pins</description>
 <busses>
 </busses>
 <nets>
-<net name="N$2" class="0">
+<net name="N$2" class="2">
 <segment>
 <wire x1="40.64" y1="386.08" x2="287.02" y2="386.08" width="0.1524" layer="91"/>
 <pinref part="U5" gate="G$1" pin="VMOT"/>
@@ -3044,7 +3048,7 @@ With round pins</description>
 <wire x1="88.9" y1="327.66" x2="205.74" y2="327.66" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$1" class="0">
+<net name="N$1" class="3">
 <segment>
 <pinref part="U4" gate="G$1" pin="GND"/>
 <pinref part="C4" gate="G$1" pin="-"/>

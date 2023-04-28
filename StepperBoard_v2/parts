@@ -1,0 +1,94 @@
+Partlist
+
+Exported from v2.brd at 4/18/2023 17:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package        Library               Position (mm)         Orientation
+
+C1       100uF          8X10.5         SparkFun-Capacitors   (124.26 73.4)         R0
+C2       100uF          8X10.5         SparkFun-Capacitors   (151.8 73.61)         R0
+C3       100uF          8X10.5         SparkFun-Capacitors   (180.8 73.41)         R0
+C4       100uF          8X10.5         SparkFun-Capacitors   (209.4 73.11)         R0
+C5       100uF          8X10.5         SparkFun-Capacitors   (237.2 73.21)         R0
+C6       100uF          8X10.5         SparkFun-Capacitors   (264.77 72.91)        R0
+C7       100uF          8X10.5         SparkFun-Capacitors   (124.03 49.81)        R0
+C8       100uF          8X10.5         SparkFun-Capacitors   (152 49.84)           R0
+C9       100uF          8X10.5         SparkFun-Capacitors   (180.76 49.84)        R0
+C10      100uF          8X10.5         SparkFun-Capacitors   (124.22 25.84)        R0
+C11      100uF          8X10.5         SparkFun-Capacitors   (151.97 25.22)        R0
+C12      100uF          8X10.5         SparkFun-Capacitors   (179.53 25.72)        R0
+C13      100uF          8X10.5         SparkFun-Capacitors   (207.9 25.25)         R0
+C14      100uF          8X10.5         SparkFun-Capacitors   (236.46 24.95)        R0
+C15      100uF          8X10.5         SparkFun-Capacitors   (264.32 25.25)        R0
+F1                      0154SERIES_LTF Fuse                  (62.59 90.29)         R0
+IC1      2969-MP6500    MP6500         pololu-stepper-driver (124.1 68.48)         R0
+IC2      2969-MP6500    MP6500         pololu-stepper-driver (151.73 68.48)        R0
+IC3      2969-MP6500    MP6500         pololu-stepper-driver (180.76 68.48)        R0
+IC4      2969-MP6500    MP6500         pololu-stepper-driver (209.26 68.08)        R0
+IC5      2969-MP6500    MP6500         pololu-stepper-driver (237.15 68.08)        R0
+IC6      2969-MP6500    MP6500         pololu-stepper-driver (264.9 67.99)         R0
+IC7      2969-MP6500    MP6500         pololu-stepper-driver (124.03 44.69)        R0
+IC8      2969-MP6500    MP6500         pololu-stepper-driver (152.06 44.69)        R0
+IC9      2969-MP6500    MP6500         pololu-stepper-driver (180.69 44.79)        R0
+IC10     2969-MP6500    MP6500         pololu-stepper-driver (124.15 20.79)        R0
+IC11     2969-MP6500    MP6500         pololu-stepper-driver (152.03 20.57)        R0
+IC12     2969-MP6500    MP6500         pololu-stepper-driver (179.76 20.67)        R0
+IC13     2969-MP6500    MP6500         pololu-stepper-driver (207.96 20.37)        R0
+IC14     2969-MP6500    MP6500         pololu-stepper-driver (236.59 19.77)        R0
+IC15     2969-MP6500    MP6500         pololu-stepper-driver (264.25 20.17)        R0
+J1       F-2X18-DIL-100 DIL-100-2X18   con-headers-jp        (92.85 46.86)         R90
+J2                      MOLEX-1X4_LOCK SparkFun-Connectors   (89.82 90.57)         R0
+J3                      MOLEX-1X4_LOCK SparkFun-Connectors   (102.05 90.58)        R0
+J4                      MOLEX-1X4_LOCK SparkFun-Connectors   (114.85 90.78)        R0
+J5                      MOLEX-1X4_LOCK SparkFun-Connectors   (127.95 90.78)        R0
+J6                      MOLEX-1X4_LOCK SparkFun-Connectors   (141.15 90.98)        R0
+J7                      MOLEX-1X4_LOCK SparkFun-Connectors   (154.27 90.81)        R0
+J8                      MOLEX-1X4_LOCK SparkFun-Connectors   (166.6 90.91)         R0
+J9                      MOLEX-1X4_LOCK SparkFun-Connectors   (179.56 91.18)        R0
+J10                     MOLEX-1X4_LOCK SparkFun-Connectors   (192.79 91.18)        R0
+J11                     MOLEX-1X4_LOCK SparkFun-Connectors   (205.52 91.18)        R0
+J12                     MOLEX-1X4_LOCK SparkFun-Connectors   (219.47 90.92)        R0
+J13                     MOLEX-1X4_LOCK SparkFun-Connectors   (231.7 90.92)         R0
+J14                     MOLEX-1X4_LOCK SparkFun-Connectors   (244.76 91.39)        R0
+J15                     MOLEX-1X4_LOCK SparkFun-Connectors   (257.99 91.49)        R0
+J16                     MOLEX-1X4_LOCK SparkFun-Connectors   (270.62 91.49)        R0
+JP1                     1X08           pinhead               (80.15 20.19)         R0
+JP2                     1X08           pinhead               (34.43 20.19)         R0
+JP3                     1X08           pinhead               (75.07 68.45)         R0
+JP4                     1X08           pinhead               (52.21 68.45)         R0
+JP16                    1X08           pinhead               (57.29 20.19)         R0
+R1       2.0k           0603           SparkFun-Resistors    (109.1 63.3)          R0
+R2       2.0k           0603           SparkFun-Resistors    (137.7 62.4)          R0
+R3       2.0k           0603           SparkFun-Resistors    (167.6 62.3)          R0
+R4       2.0k           0603           SparkFun-Resistors    (195.6 61.8)          R0
+R5       2.0k           0603           SparkFun-Resistors    (223.2 61.1)          R0
+R6       2.0k           0603           SparkFun-Resistors    (251.2 62)            R0
+R7       2.0k           0603           SparkFun-Resistors    (109.8 38.2)          R0
+R8       2.0k           0603           SparkFun-Resistors    (137.9 37.6)          R0
+R9       2.0k           0603           SparkFun-Resistors    (167.9 38.7)          R0
+R10      2.0k           0603           SparkFun-Resistors    (110.6 14.3)          R0
+R11      2.0k           0603           SparkFun-Resistors    (137.4 14.1)          R0
+R12      2.0k           0603           SparkFun-Resistors    (166.2 13.6)          R0
+R13      2.0k           0603           SparkFun-Resistors    (194 13.6)            R0
+R14      2.0k           0603           SparkFun-Resistors    (223.7 13.4)          R0
+R15      2.0k           0603           SparkFun-Resistors    (250.3 13.8)          R0
+SV1                     MA05-2         con-lstb              (109.33 72.34)        R90
+SV2                     MA05-2         con-lstb              (137.92 72.24)        R90
+SV3                     MA05-2         con-lstb              (167.88 72.04)        R90
+SV4                     MA05-2         con-lstb              (195.44 71.54)        R90
+SV5                     MA05-2         con-lstb              (223.2 71.84)         R90
+SV6                     MA05-2         con-lstb              (251.16 71.44)        R90
+SV7                     MA05-2         con-lstb              (110.12 48.44)        R90
+SV8                     MA05-2         con-lstb              (138.08 48.34)        R90
+SV9                     MA05-2         con-lstb              (167.64 48.34)        R90
+SV10                    MA05-2         con-lstb              (110.8 24.84)         R90
+SV11                    MA05-2         con-lstb              (137.76 24.44)        R90
+SV12                    MA05-2         con-lstb              (166.62 24.34)        R90
+SV13                    MA05-2         con-lstb              (193.78 24.04)        R90
+SV14                    MA05-2         con-lstb              (223.54 23.54)        R90
+SV15                    MA05-2         con-lstb              (250.6 23.54)         R90
+U$16     PINHD-1X10     1X10-BIG       adafruit              (28.08 68.45)         R0
+X2                      W237-4         con-wago-500          (26.38 89.88)         R0
